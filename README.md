@@ -1,5 +1,5 @@
 # Shoe-Store-Wesbite
-A website for my client who has a shoe store. 
+A website for my client who owns a shoe store. 
 
 IB Computer Science HL - Internal Assessment 
 
